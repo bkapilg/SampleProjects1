@@ -1,0 +1,13 @@
+[0428/202928.553:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0501/003229.312:ERROR:file_io_win.cc(170)] CreateFile C:\Users\20126635\AppData\Local\Temp\scoped_dir97928_458014219\Crashpad\reports\f1551765-05c6-4176-ad84-6f752a1c5b5b.dmp: The system cannot find the path specified. (0x3)
+[0501/003229.446:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0501/133825.496:ERROR:file_io_win.cc(170)] CreateFile C:\Users\20126635\AppData\Local\Temp\scoped_dir97928_458014219\Crashpad\reports\a5e4be48-9172-4204-b5f0-18e4a7a48ef5.dmp: The system cannot find the path specified. (0x3)
+[0501/133825.526:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0501/181528.466:ERROR:file_io_win.cc(170)] CreateFile C:\Users\20126635\AppData\Local\Temp\scoped_dir97928_458014219\Crashpad\reports\7b6947ec-8c63-4cec-b60f-8d3346411677.dmp: The system cannot find the path specified. (0x3)
+[0501/181528.675:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0501/182131.644:ERROR:file_io_win.cc(170)] CreateFile C:\Users\20126635\AppData\Local\Temp\scoped_dir97928_458014219\Crashpad\reports\b89156f6-3c6d-4e40-a5ff-ba868c1a5f03.dmp: The system cannot find the path specified. (0x3)
+[0501/182131.644:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0501/215459.002:ERROR:process_info.cc(617)] range at 0xa75c7fd000, size 0x3000 fully unreadable
+[0501/215459.065:ERROR:process_info.cc(617)] range at 0xa376f33000, size 0x1788 fully unreadable
+[0501/215459.274:ERROR:file_io_win.cc(170)] CreateFile C:\Users\20126635\AppData\Local\Temp\scoped_dir97928_458014219\Crashpad\reports\550eadaa-1519-4f1e-9d76-f361c7190180.dmp: The system cannot find the path specified. (0x3)
+[0501/215459.306:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
